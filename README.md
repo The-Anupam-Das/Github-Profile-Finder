@@ -3,7 +3,7 @@
    - My personel react.js project
 
    * Click to view live demo 
-(https://git-hub-finder-react.netlify.app)
+(https://das-github-profile.netlify.app/)
 ## State Management Tool
 
     - Context api
